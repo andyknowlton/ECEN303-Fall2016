@@ -13,6 +13,7 @@ Undergraduate Students
 * John Vetus, [jvetus](https://github.com/jvetus)
 * Samuel Costa, [samjcosta80](https://github/samjcosta80)
 * Samuel Todd Flanagan, [toddflan](https://github/toddflan)
+* Andrew Knowlton, [andyknowlton] (https://github/andyknowlton)
 
 Faculty Members
 ---------------
